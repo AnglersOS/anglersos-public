@@ -1,4 +1,4 @@
-# AnglerOS 🎣
+# AnglersOS 🎣
 **The ultimate open-source ecosystem for smart fishing.**  
 **Профессиональная open-source экосистема для умной рыбалки.**
 
@@ -12,7 +12,7 @@
 
 <a name="english"></a>
 ## 🌍 Overview (English)
-**AnglerOS** is a comprehensive, open-source hardware and software suite designed for professional carp and bank fishing. It moves beyond simple bite alarms, creating a unified ecosystem of sensors, security devices, and smart lighting.
+**AnglersOS** is a comprehensive, open-source hardware and software suite designed for professional carp and bank fishing. It moves beyond simple bite alarms, creating a unified ecosystem of sensors, security devices, and smart lighting.
 
 ### ✨ Key Features
 
@@ -39,13 +39,13 @@ This project is licensed under **CC BY-NC-SA 4.0**.
 *   **Commercial use:** Production for sale or commercial distribution **requires a separate license**. Please contact the author for details.
 
 ### 🤝 Contributing
-AnglerOS is an open project! If you are a developer, engineer, or an avid angler with ideas, feel free to open an issue or submit a pull request.
+AnglersOS is an open project! If you are a developer, engineer, or an avid angler with ideas, feel free to open an issue or submit a pull request.
 
 ---
 
 <a name="russian"></a>
 ## 🌍 Обзор (Русский)
-**AnglerOS** — это комплексная программно-аппаратная экосистема с открытым исходным кодом, разработанная для профессиональной карповой и береговой ловли. Проект объединяет в единую защищенную сеть датчики поклевки, системы охраны лагеря и умное освещение.
+**AnglersOS** — это комплексная программно-аппаратная экосистема с открытым исходным кодом, разработанная для профессиональной карповой и береговой ловли. Проект объединяет в единую защищенную сеть датчики поклевки, системы охраны лагеря и умное освещение.
 
 ### ✨ Ключевые особенности
 
@@ -72,7 +72,7 @@ AnglerOS is an open project! If you are a developer, engineer, or an avid angler
 *   **Коммерческое использование:** Продажа готовых устройств или коммерческое использование наработок **требует приобретения отдельной лицензии**. Свяжитесь с автором для обсуждения условий.
 
 ### 🤝 Сообщество
-AnglerOS — это открытый проект! Если вы разработчик, инженер или увлеченный рыбак с идеями — создавайте Issue или присылайте ваши предложения через Pull Request.
+AnglersOS — это открытый проект! Если вы разработчик, инженер или увлеченный рыбак с идеями — создавайте Issue или присылайте ваши предложения через Pull Request.
 
 ---
 
