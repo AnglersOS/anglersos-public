@@ -10,6 +10,10 @@
 
 ---
 
+*   [Support / Поддержка](#support)
+
+---
+
 <a name="english"></a>
 ## 🌍 Overview (English)
 **AnglersOS** is a comprehensive, open-source hardware and software suite designed for professional carp and bank fishing. It moves beyond simple bite alarms, creating a unified ecosystem of sensors, security devices, and smart lighting.
@@ -34,7 +38,8 @@
 *   **Cloud Statistics:** Log your catches, weather data, and lunar phases for better planning.
 
 ### ⚖️ License
-This project is licensed under **CC BY-NC-SA 4.0**.
+This project is licensed under **CC BY-NC-SA 4.0** with a strict liability disclaimer. 
+See the full text in the [LICENSE](LICENSE) file.
 *   **Personal use:** Free to build, modify, and share.
 *   **Commercial use:** Production for sale or commercial distribution **requires a separate license**. Please contact the author for details.
 
@@ -67,7 +72,8 @@ AnglersOS is an open project! If you are a developer, engineer, or an avid angle
 *   **Облачная статистика:** Фиксация уловов, погодных условий и фаз луны для анализа эффективности.
 
 ### ⚖️ Лицензия
-Проект распространяется под лицензией **CC BY-NC-SA 4.0**.
+Проект распространяется под лицензией **CC BY-NC-SA 4.0** с полным отказом от ответственности. 
+Ознакомиться с полным текстом можно в файле [LICENSE](LICENSE).
 *   **Личное использование:** Бесплатно для сборки, модификации и обмена опытом.
 *   **Коммерческое использование:** Продажа готовых устройств или коммерческое использование наработок **требует приобретения отдельной лицензии**. Свяжитесь с автором для обсуждения условий.
 
@@ -75,6 +81,8 @@ AnglersOS is an open project! If you are a developer, engineer, or an avid angle
 AnglersOS — это открытый проект! Если вы разработчик, инженер или увлеченный рыбак с идеями — создавайте Issue или присылайте ваши предложения через Pull Request.
 
 ---
+
+<a name="support"></a>
 
 ## ☕ Support / Поддержка
 If you like this project, consider supporting its development:
